@@ -1,0 +1,44 @@
+INSERT 
+INTO STUDENT VALUES (11646, 'Tate', 'Lilia', '23-10-2003', '21', 'LiliaTate92', 2025, 2);
+INSERT 
+INTO STUDENT VALUES (12546, 'Haaland', 'Erling', '21-07-2000', '8', 'ErlingHaaland37', 2025, 2);
+INSERT 
+INTO STUDENT VALUES (13098, 'Brooks', 'Chloe', '30-04-2003', '28', 'ChloeBrooks94', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (14264, 'Williams', 'Serena', '26-09-1981', '19', 'SerenaWilliams43', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (16972, 'Brown', 'StrangerThings', '06-02-2004', '50', 'StrangerThingsB99', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (35017, 'Rodrigo', 'Olivia', '20-02-2003', '4', 'OliviaRodrigo31', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (28919, 'West', 'North', '15-06-2013', '15', 'NorthWest23', 2025, 2);
+INSERT 
+INTO STUDENT VALUES (64921, 'Grande', 'Ariana', '26-06-1993', '10', 'ArianaGrande84', 2025, 2);
+INSERT 
+INTO STUDENT VALUES (22599, 'Beckham', 'Romeo', '01-09-2002', '22', 'RomeoBeckham27', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (25758, 'Mendes', 'Shawn', '08-08-1998', '3', 'ShawnMendes73', 2025, 2);
+INSERT 
+INTO STUDENT VALUES (27274, 'Yousafzai', 'Malala', '12-07-1997', '26', 'MalalaYousafzai58', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (28766, 'Hadid', 'Bella', '09-10-1996', '17', 'BellaHadid82', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (30644, 'Efron', 'Zac', '18-10-1987', '13', 'ZacEfron92', 2025, 2);
+INSERT 
+INTO STUDENT VALUES (36090, 'Fanning', 'Dakota', '23-02-1994', '23', 'DakotaFanning36', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (37111, 'Chalamet', 'Timothée', '27-12-1995', '7', 'TimotheeChalamet19', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (34738, 'Swift', 'Taylor', '13-12-1989', '11', 'TaylorSwift48', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (09940, 'Eilish', 'Finneas', '30-07-1997', '29', 'FinneasEilish66', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (23441, 'Musk', 'X AE A-Xii', '04-05-2020', '27', 'XAEMusk11', 2025, 2);
+INSERT 
+INTO STUDENT VALUES (23542, 'Gomez', 'Selena', '22-07-1992', '6', 'SelenaGomez65', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (84644, 'Elba', 'Isan', '12-01-2002', '18', 'IsanElba34', 2025, 2);
+INSERT 
+INTO STUDENT VALUES (34747, 'Thee', 'Megan', '15-02-1995', '12', 'MeganThee64', 2025, 1);
+INSERT 
+INTO STUDENT VALUES (64560, 'Smith', 'Jaden', '08-07-1998', '16', 'JadenSmith71', 2025, 1);
